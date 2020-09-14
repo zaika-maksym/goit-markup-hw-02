@@ -1,0 +1,232 @@
+ body {
+    background-color: #ffffff;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+
+}
+
+
+.logo-color-web { 
+    color: #2196F3;
+}
+
+.logo-color-studio {
+    color: #000000;
+} 
+
+.site-logo {
+    text-decoration: none;
+}
+
+.site-logo-text {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-size: 26px;
+}
+.nomark {
+    list-style: none;
+}
+
+.navpanel-link-list {    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 0.143;
+    letter-spacing: 0.02em;
+    color: #212121;
+    text-decoration: none;
+}
+
+.navpanel-link-list:hover,
+.navpanel-link-list:focus,
+.header-mail:hover,
+.header-mail:focus,
+.header-tel:hover,
+.header-tel:focus {
+    color: #2196F3;
+}
+
+
+.link {
+    list-style: none;
+}
+
+.header-mail {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 0.143;
+    letter-spacing: 0.02em;
+    color: #757575;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.header-tel {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 0.143;
+    letter-spacing: 0.02em;
+    color: #757575;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.effective-part-main {   
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.364;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+.effective-part {
+    background-color:#2F303A;
+    
+}
+
+/* .effective-part-btn {
+    
+} */
+
+/* .modal-btn:hover,
+.modal-btn:focus {
+    text-decoration: none;
+} */
+
+.modal-btn {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #2196F3;
+    border: none;
+    padding: 10px 32px;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+
+/*    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12); 
+display: inline-flex;
+border: none;
+border-radius: 3px;*/
+
+.section-heading {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 0.143;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.section-heading-bottom {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.714;
+    letter-spacing: 0.03em;
+    color: #757575;
+
+}
+
+
+.what-we-do-heading, .ours-team-heading  {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.166;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+
+}
+
+.ours-team-heading-employe {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.187;
+    letter-spacing: 0.03em;
+    color: #212121;
+
+}
+
+.ours-team-heading-employe-spec {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    
+}
+
+.footer {
+    background-color: #2F303A;
+    text-decoration: none;
+}
+
+.footer-map-link {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.714;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-mail-link, .footer-tel-link {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.714;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+
+}
+
+
+.filter-nav-btn:hover,
+.filter-nav-btn:focus {
+    color: #ffffff;
+    background-color: #2196F3;
+    
+
+}
+
+
+.filter-nav-btn {
+    font-family: Roboto;
+    font-style: normal;
+    color: #212121;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    padding: 6px 22px;
+    border-radius: 8px;
+    text-transform: capitalize;
+}
+
+
+.portfolio-item-heading {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 2.000;
+    letter-spacing: 0.06em;
+    color: #212121;
+    text-transform: capitalize;
+}
+
+.portfolio-all-bottom {
+    
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.875;
+    letter-spacing: 0.03em;
+    color: #757575;
+    text-transform: capitalize;
+
+
+}
